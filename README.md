@@ -1,2 +1,3 @@
-# marsadd new line to readme file
-\n anothetr line add
+mars
+add new line to readme file
+add third line
